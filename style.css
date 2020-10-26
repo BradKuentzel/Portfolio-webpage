@@ -1,0 +1,106 @@
+/*Oh no! You really are snooping around aren't you? Thats ok! Again if you see anything that I may improve on contact me and let me know!*/
+
+/* selector {property:value} */
+
+/* General Styles*/
+header {
+  text-align: center;
+  height: 200px;
+  border: 4px solid;
+  margin: 5%;
+}
+
+div{
+  padding: 10px;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+    background-image: url(images/backgrounds/grey-wood.jpg);
+}
+
+footer {
+  border: 1px solid black;
+  color: white;
+  font-size: 16px;
+  background-image: url(images/backgrounds/carbonfiber.jpg);
+}
+
+/* Types */
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+}
+
+p {
+  font-family: Georgia, Franklin Gothic Medium, Arial Narrow;
+  font-size: 24px;;
+  text-shadow: 1px 1px #333e50;
+  width: 475px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+hr {
+  width: 75%;
+  border: 3px solid black;
+}
+
+h2, h3 {
+  font-family: Gauruda, Franklin Gothic Medium, Arial Narrow;
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 26px;
+  text-shadow: 1px 1px rgba(110, 52, 11, 0.521);
+}
+
+ul { 
+  display: inline-block; 
+  text-align: left;
+  font-family: Gauruda, Franklin Gothic Medium, Arial Narrow;
+  font-size: 25px; 
+}
+
+#copyright {
+  font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+#hello {
+  text-shadow: 1px 1px rgba(110, 52, 11, 0.521);
+}
+#interests { 
+  text-shadow: 1px 1px rgba(110, 52, 11, 0.521);
+}
+
+#contactlinks {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  font-size: 28px; 
+  text-align: left;
+  display: inline-block;
+}
+
+/* link colors */
+
+a:link {
+  color: rgb(110, 52, 11);
+}
+
+a:visited {
+  color: rgb(204, 121, 13);
+}
+
+a:hover {
+  color: rgb(255, 106, 0);
+}
+
+a:active {
+  color: rgba(187, 204, 30, 0.973);
+}
+
+
+
+
